@@ -9,9 +9,12 @@ let root = document.getElementById("root");
  */
 
 const urls = [
-	'https://google.com',
-	'https://youtube.com',
-	'https://drive.google.com/'
+	// 'https://google.com',
+	// 'https://youtube.com',
+	// 'https://drive.google.com/'
+    "https://www.surveycake.com/s/Yl16Z",
+    "https://www.surveycake.com/s/LbWvp",
+    "https://www.surveycake.com/s/xxRDW"
 ];
 
 window.location.href = 
